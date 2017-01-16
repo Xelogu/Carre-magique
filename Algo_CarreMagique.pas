@@ -2,7 +2,7 @@ program Algo_CarreMagique;
 
 uses crt, sysutils;
 
-(*PROGRAMME rat
+(*PROGRAMME CarreMagique
 //BUT Affiche un carré magique d'une dimension impaire défini en constantes
 //ENTREE rien
 //SORTIE carré magique
